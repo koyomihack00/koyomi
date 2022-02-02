@@ -167,7 +167,7 @@ select {
 	margin: 0px auto;
 }
 .btn-default-style {
-	background: #43d796;
+	background: #7d0de6;
 	border-radius: 50px;
 	color: #ffffff;
 	height: 55px;
@@ -219,7 +219,7 @@ select {
 	margin: -100px 0 0 -100px;
 }
 .is-sticky nav.navbar {
-	background: #020c59;
+	background: #2d0ba8;
 	border-radius: 0;
 	box-shadow: 0px 1px 21px -1px rgba(108, 102, 231, 0.2);
 	z-index: 99;
@@ -397,7 +397,7 @@ select {
 }
 .header .navbar .dropdown .dropdown-menu {
 	transition: all 0.3s ease-in-out;
-	background: #ffffff;
+	background: #32037c;
 	min-width: 225px;
 	border-radius: 0;
 	padding: 0;
@@ -474,11 +474,14 @@ select {
 .header .intro-text {
 	margin-top: 180px;
 	padding-right: 70px;
+	text-shadow: 1px 1px 2px black, 0 0 25px #2d0ba8, 0 0 5px rgb(72, 0, 139);
+
 }
 .header .intro-text h1 {
 	font-size: 50px;
 	font-weight: 500;
 	line-height: 68px;
+	text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
 }
 .header .intro-text p {
 	font-size: 18px;
@@ -486,6 +489,8 @@ select {
 	margin-top: 30px;
 	font-weight: 400;
 	padding-right: 50px;
+	text-shadow: 1px 1px 2px black, 0 0 25px rgb(130, 1, 204), 0 0 5px rgb(178, 19, 184);
+	
 }
 .header .intro-text .intro_btn_3 {
 	background: transparent;
@@ -530,7 +535,7 @@ select {
 	margin-left: -4px;
 }
 #benefits {
-	background: #081864;
+	background: #d8dbec;
 	padding: 100px 0 0;
 }
 #benefits .benefits-single-item .benefits-single-wrapper {
@@ -548,13 +553,13 @@ select {
 	padding: 80px 0;
 }
 #benefits .benefits-single-item .benefits-single-wrapper h4 {
-	background: #2d0ba8;
+	background: #690ba8;
 	height: 90px;
 	line-height: 90px;
 	font-size: 20px;
 }
 #benefits #about_cryptonic {
-	background: #2d0ba8;
+	background: #690ba8;
 	padding: 220px 0;
 	overflow: hidden;
 	position: relative;
@@ -568,7 +573,7 @@ select {
 	z-index: 1;
 }
 #benefits #about_cryptonic .about-img .img-wrapper:before {
-	background: #132067;
+	background: #690ba8;
 	border-top-right-radius: 22% 66%;
 	border-bottom-right-radius: 30% 67%;
 	content: "";
@@ -590,7 +595,7 @@ select {
 	margin-left: 130px;
 }
 #benefits #about_cryptonic .about_cryptonic-content h6:before {
-	background: #2d0ba8;
+	background: #690ba8;
 	position: absolute;
 	top: 9px;
 	left: -130px;
@@ -607,14 +612,14 @@ select {
 	padding: 20px 0 0;
 }
 #benefits #about_cryptonic .about_cryptonic-content .btn-default-style {
-	background: #2d0ba8;
+	background: #690ba8;
 	height: 52px;
 	line-height: 52px;
 	padding: 0 30px;
 	margin-top: 30px;
 }
 #countdown-area {
-	background: #2d0ba8;
+	background: #690ba8;
 	padding: 120px 0;
 }
 #countdown-area .sub-title {
@@ -655,7 +660,7 @@ select {
 	content: "Seconds";
 }
 #countdown-area .btn-default-style {
-	background: #2d0ba8;
+	background: #690ba8;
 	font-size: 16px;
 	font-weight: 500;
 }
@@ -671,7 +676,7 @@ select {
 	border-bottom-right-radius: 25px;
 	width: 80%;
 	position: relative;
-	background: linear-gradient(to top, #2d0ba8, #2d0ba8);
+	background: linear-gradient(to top, #690ba8, #690ba8);
 }
 #progerss-wrapper .progress .progress-bar span {
 	position: absolute;
@@ -688,7 +693,7 @@ select {
 	bottom: -6%;
 }
 #progerss-wrapper .progress .minimum_goal .progress-shpe {
-	background: #2d0ba8;
+	background: #690ba8;
 	height: 110px;
 	width: 6px;
 	border-radius: 10px;
@@ -739,7 +744,7 @@ select {
 .payment_mathod .payment-options .payment-single {
 	height: 175px;
 	width: 175px;
-	background: #2d0ba8;
+	background: #690ba8;
 	margin: 0 15px;
 	transition: all 0.3s ease-in-out;
 	position: relative;
@@ -781,7 +786,7 @@ select {
 
 .roadmap {
 	padding: 100px 0;
-	background: #2d0ba8;
+	background: #690ba8;
 }
 .roadmap .roadmap-area {
 	position: relative;
@@ -791,7 +796,7 @@ select {
 	content: "";
 	width: 1px;
 	height: 100%;
-	background: #2d0ba8;
+	background: #690ba8;
 	left: 50%;
 	border-bottom-left-radius: 50%;
 	border-bottom-right-radius: 50%;
@@ -822,7 +827,7 @@ select {
 .roadmap .roadmap-area .roadmap-tree .roadmap-cloumn .roadmap-marker:before {
 	position: absolute;
 	content: "";
-	background: #2d0ba8;
+	background: #690ba8;
 	width: 11px;
 	height: 11px;
 	top: 50%;
@@ -832,7 +837,7 @@ select {
 	border-radius: 50%;
 }
 .roadmap .roadmap-area .roadmap-tree .roadmap-cloumn .roadmap-marker.marker-off:before {
-	background: #2d0ba8;
+	background: #690ba8;
 }
 .roadmap .roadmap-area .roadmap-tree .roadmap-cloumn .roadmap-dese-left {
 	padding: 0 65px 0 0;
@@ -850,7 +855,7 @@ select {
 }
 .roadmap .roadmap-area .roadmap-tree .roadmap-cloumn .roadmap-desc .doc-wraper:before {
 	position: absolute;
-	background: linear-gradient(to right, #2d0ba8, #2d0ba8);
+	background: linear-gradient(to right, #690ba8, #690ba8);
 	top: 0;
 	left: 0;
 	height: 100%;
@@ -894,7 +899,7 @@ select {
 	text-align: left;
 }
 #token_distribution {
-	background: #2d0ba8;
+	background: #690ba8;
 	padding: 100px 0 0;
 }
 #token_distribution .sub-title {
@@ -904,7 +909,7 @@ select {
 	text-align: center;
 }
 #token_funds {
-	background: #2d0ba8;
+	background: #690ba8;
 	padding: 100px 0;
 }
 #token_funds .sub-title {
@@ -914,7 +919,7 @@ select {
 	text-align: center;
 }
 .logos {
-	background: #2d0ba8;
+	background: #690ba8;
 	padding: 100px 0 0;
 }
 .logos .companis-logo-wapper .companis-logos {
@@ -937,11 +942,11 @@ select {
 	cursor: pointer;
 }
 #faq-area {
-	background: #2d0ba8;
+	background: #690ba8;
 	padding: 150px 0 0;
 }
 #faq-area .faq-wrapper {
-	background: #2d0ba8;
+	background: #690ba8;
 	padding: 80px 50px 50px;
 	box-shadow: 0 0 50px 0 rgba(0, 0, 0, 0.2);
 }
@@ -992,7 +997,7 @@ select {
 /*---------- team Style-------*/
 
 #team_membar {
-	background: #2d0ba8;
+	background: #690ba8;
 	padding: 150px 0;
 }
 #team_membar .single-row {
@@ -1012,7 +1017,7 @@ select {
 	position: relative;
 }
 #team_membar .single-row .team-single-item figure .member-img:before {
-	background: #2d0ba8;
+	background: #690ba8;
 	opacity: 0.45;
 	content: "";
 	left: 0;
@@ -1056,7 +1061,7 @@ select {
 	transition: all 0.3s ease 0s;
 }
 #team_membar .single-row .team-single-item figure figcaption .social-links {
-	background: linear-gradient(to right, #2d0ba8, #2d0ba8);
+	background: linear-gradient(to right, #690ba8, #690ba8);
 	margin: 0px auto;
 	text-align: left;
 	padding-left: 40px;
@@ -1097,7 +1102,7 @@ select {
 }
 #subscribe-wrapper:before {
 	position: absolute;
-	background: #2d0ba8;
+	background: #690ba8;
 	content: "";
 	height: 60%;
 	width: 100%;
@@ -1107,7 +1112,7 @@ select {
 }
 #subscribe-wrapper:after {
 	position: absolute;
-	background: #020c59;
+	background: #690ba8;
 	content: "";
 	height: 40%;
 	width: 100%;
@@ -1116,7 +1121,7 @@ select {
 	z-index: -1;
 }
 #subscribe-wrapper #subscribe {
-	background: linear-gradient(to right, #2d0ba8, #2d0ba8);
+	background: linear-gradient(to right, #690ba8, #690ba8);
 	padding: 60px 0;
 }
 #subscribe-wrapper #subscribe .sub-title {
@@ -1394,7 +1399,7 @@ select {
 #header-01 .img-wrapper .intro-img .shape-1 {
 	position: absolute;
 	top: 18%;
-	left: 23%;
+	left: 1%;
 }
 #header-01 .img-wrapper .intro-img .shape-1 .box {
 	align-self: flex-end;
@@ -4595,7 +4600,7 @@ select {
 	z-index: 1;
 }
 #footer-05:before {
-	background: rgba(25, 35, 59, 0.97);
+	background: rgba(243, 243, 243, 0.97);
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -4703,7 +4708,7 @@ select {
 
 .body_06 {
 	color: #ffffff;
-	background: #0e044d;
+	background: #000000;
 }
 .body_06 p {
 	line-height: 26px;
@@ -4717,7 +4722,7 @@ select {
 .body_06 h4,
 .body_06 h5,
 .body_06 h6 {
-	color: #19233b;
+	color: #ebebeb;
 }
 .body_06 .sub-title h2 {
 	font-size: 36px;
@@ -4729,7 +4734,7 @@ select {
 	color: #19233b !important;
 }
 #header-06 {
-	background: #0e044d;
+	background: #000000;
 	position: relative;
 	height: 100%;
 	z-index: 99;
@@ -4822,7 +4827,7 @@ select {
 	-webkit-text-fill-color: transparent;
 }
 #header-06 .navbar .language .dropdown .dropdown-menu {
-	background: #1E109B;
+	background: #690ba8;
 }
 #header-06 .navbar .language .dropdown .dropdown-menu li a {
 	color: #ffffff;
@@ -4907,7 +4912,7 @@ select {
 	padding-left: 25px;
 }
 #header-06 .countdown_time {
-	background: #1a0b69;
+	background: #690ba8;
 	border-radius: 5px;
 	padding: 15px;
 	margin: 90px 80px 0 0;
@@ -4929,7 +4934,7 @@ select {
 #header-06 .countdown_time .clock-countdown .single-counter h4 {
 	width: 70px;
 	height: 70px;
-	background: #1e109a;
+	background: #690ba8;
 	border-radius: 5px;
 }
 #header-06 .countdown_time .clock-countdown .single-counter h4 .count-time {
@@ -4953,7 +4958,7 @@ select {
 	margin-bottom: -41px;
 }
 #header-06 .countdown_time .count-time_btn a {
-	background: #1e109a;
+	background: #690ba8;
 	padding: 15px 30px;
 	border-radius: 5px;
 	color: #ffffff;
@@ -5001,9 +5006,11 @@ select {
 }
 #header-06 .img-wrapper .intro-img .bounce_wrapper img {
 	height: auto;
-	width: auto;
-	margin-left: -6%;
-	margin-top: 0%;
+	width: 400px;
+	margin-left: 10%;
+	margin-top: -20%;
+	border-radius: 30%;
+	box-shadow: 10px 10px 5px 12px rgb(0, 0, 0);
 }
 #header-06 .img-wrapper .intro-img .bounce_wrapper .bounce_img {
 	position: absolute;
@@ -6111,7 +6118,7 @@ select {
 	margin: 0;
 }
 #faq-area-06 .faq-wrapper .accordion-wrapper .accordion-single {
-	background: #1e109b;
+	background: #690ba8;
 	border: none;
 	margin-bottom: 15px;
 	border-radius: 5px;
@@ -6145,7 +6152,7 @@ select {
 	float: right;
 }
 #faq-area-06 .faq-wrapper .accordion-wrapper .accordion-single .panel-heading.active {
-	background: #1e109b;
+	background: #690ba8;
 }
 #faq-area-06 .faq-wrapper .accordion-wrapper .accordion-single .accordion-content {
 	padding: 0 25px 25px;
@@ -6260,7 +6267,7 @@ select {
 	font-size: 16px;
 }
 #contact_06 .contact_form form .form-group input {
-	background: #1a1156;
+	background: #690ba8;
 	color: #ffffff;
 	height: 70px;
 	font-size: 16px;
@@ -6301,7 +6308,7 @@ select {
 	outline: none;
 }
 #contact_06 .contact_form form .form-group button {
-	background: #3f77fa;
+	background: #690ba8;
 	border: medium none;
 	color: yellow;
 	outline: medium none;
@@ -6508,7 +6515,7 @@ select {
 	margin-bottom: 30px;
 }
 #blog .blog_singel {
-	background: #1e109b;
+	background: #690ba8;
 	padding: 15px;
 	margin-bottom: 30px;
 }
@@ -6585,7 +6592,7 @@ select {
 	padding: 20px 40px;
 }
 #blog-post .post-area .blog_wrapper .blog-title h3 {
-	color: #1e109b;
+	color: #690ba8;
 	font-size: 30px;
 }
 #blog-post .post-area .blog_wrapper .blog-title .author_info {
@@ -6681,7 +6688,7 @@ select {
 	-webkit-background-clip: text;
 }
 #blog-post .post-area .blog_wrapper .leave_comment_wrapper .contact_form form .form-group label {
-	color: blue;
+	color: #690ba8;
 	font-weight: 500;
 	margin-left: 15px;
 }
@@ -6708,7 +6715,7 @@ select {
 	opacity: 1;
 }
 #blog-post .post-area .blog_wrapper .leave_comment_wrapper .contact_form form .form-group button {
-	background: blue;
+	background: #690ba8;
 	border: medium none;
 	color: #fff;
 	outline: medium none;
