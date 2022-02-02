@@ -183,7 +183,7 @@ select {
 	color: #ffffff;
 }
 .gradient-color span {
-	background-image: linear-gradient(to bottom, #9982ed 0%, #f879b6 100%);
+	background-image: linear-gradient(to bottom, #4800f1 0%, #f02285 100%);
 	color: transparent;
 	-webkit-background-clip: text;
 	background-clip: text;
@@ -204,7 +204,7 @@ select {
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background-color: #fefefe;
+	background-color: #2d0ba8;
 	z-index: 9999;
 }
 #preloader #status {
@@ -251,7 +251,7 @@ select {
 	color: #19233B;
 }
 #header-05 .is-sticky nav.navbar {
-	background: #ffffff;
+	background: #2d0ba8;
 	box-shadow: 0px 1px 21px -1px rgba(108, 102, 231, 0.2);
 }
 #header-05 .language .dropdown a {
@@ -365,7 +365,7 @@ select {
 }
 .header:before {
 	position: absolute;
-	background: rgba(10, 29, 103, 0.6);
+	background: rgba(68, 2, 131, 0.6);
 	content: "";
 	height: 100%;
 	width: 100%;
@@ -464,7 +464,7 @@ select {
 }
 .header .navbar .language .dropdown .dropdown-menu {
 	min-width: 130px;
-	background: #0b1e68;
+	background: #2d0ba8;
 }
 .header .navbar .language .dropdown .dropdown-menu li a {
 	color: #ffffff !important;
@@ -548,13 +548,13 @@ select {
 	padding: 80px 0;
 }
 #benefits .benefits-single-item .benefits-single-wrapper h4 {
-	background: #0d1d66;
+	background: #2d0ba8;
 	height: 90px;
 	line-height: 90px;
 	font-size: 20px;
 }
 #benefits #about_cryptonic {
-	background: #081864;
+	background: #2d0ba8;
 	padding: 220px 0;
 	overflow: hidden;
 	position: relative;
@@ -590,7 +590,7 @@ select {
 	margin-left: 130px;
 }
 #benefits #about_cryptonic .about_cryptonic-content h6:before {
-	background: #ffffff;
+	background: #2d0ba8;
 	position: absolute;
 	top: 9px;
 	left: -130px;
@@ -607,14 +607,14 @@ select {
 	padding: 20px 0 0;
 }
 #benefits #about_cryptonic .about_cryptonic-content .btn-default-style {
-	background: #42d896;
+	background: #2d0ba8;
 	height: 52px;
 	line-height: 52px;
 	padding: 0 30px;
 	margin-top: 30px;
 }
 #countdown-area {
-	background: #0b1e68;
+	background: #2d0ba8;
 	padding: 120px 0;
 }
 #countdown-area .sub-title {
@@ -655,7 +655,7 @@ select {
 	content: "Seconds";
 }
 #countdown-area .btn-default-style {
-	background: #42d896;
+	background: #2d0ba8;
 	font-size: 16px;
 	font-weight: 500;
 }
@@ -671,7 +671,7 @@ select {
 	border-bottom-right-radius: 25px;
 	width: 80%;
 	position: relative;
-	background: linear-gradient(to top, #f78ca0, #fe9a8b);
+	background: linear-gradient(to top, #2d0ba8, #2d0ba8);
 }
 #progerss-wrapper .progress .progress-bar span {
 	position: absolute;
@@ -688,7 +688,7 @@ select {
 	bottom: -6%;
 }
 #progerss-wrapper .progress .minimum_goal .progress-shpe {
-	background: #ffffff;
+	background: #2d0ba8;
 	height: 110px;
 	width: 6px;
 	border-radius: 10px;
@@ -739,7 +739,7 @@ select {
 .payment_mathod .payment-options .payment-single {
 	height: 175px;
 	width: 175px;
-	background: #ffffff;
+	background: #2d0ba8;
 	margin: 0 15px;
 	transition: all 0.3s ease-in-out;
 	position: relative;
@@ -781,7 +781,7 @@ select {
 
 .roadmap {
 	padding: 100px 0;
-	background: #0b1e68;
+	background: #2d0ba8;
 }
 .roadmap .roadmap-area {
 	position: relative;
@@ -791,7 +791,7 @@ select {
 	content: "";
 	width: 1px;
 	height: 100%;
-	background: #1de886;
+	background: #2d0ba8;
 	left: 50%;
 	border-bottom-left-radius: 50%;
 	border-bottom-right-radius: 50%;
@@ -822,7 +822,7 @@ select {
 .roadmap .roadmap-area .roadmap-tree .roadmap-cloumn .roadmap-marker:before {
 	position: absolute;
 	content: "";
-	background: #1de886;
+	background: #2d0ba8;
 	width: 11px;
 	height: 11px;
 	top: 50%;
@@ -832,7 +832,7 @@ select {
 	border-radius: 50%;
 }
 .roadmap .roadmap-area .roadmap-tree .roadmap-cloumn .roadmap-marker.marker-off:before {
-	background: #1de886;
+	background: #2d0ba8;
 }
 .roadmap .roadmap-area .roadmap-tree .roadmap-cloumn .roadmap-dese-left {
 	padding: 0 65px 0 0;
@@ -850,7 +850,7 @@ select {
 }
 .roadmap .roadmap-area .roadmap-tree .roadmap-cloumn .roadmap-desc .doc-wraper:before {
 	position: absolute;
-	background: linear-gradient(to right, #f78ca0, #fe9a8b);
+	background: linear-gradient(to right, #2d0ba8, #2d0ba8);
 	top: 0;
 	left: 0;
 	height: 100%;
@@ -894,7 +894,7 @@ select {
 	text-align: left;
 }
 #token_distribution {
-	background: #020c59;
+	background: #2d0ba8;
 	padding: 100px 0 0;
 }
 #token_distribution .sub-title {
@@ -904,7 +904,7 @@ select {
 	text-align: center;
 }
 #token_funds {
-	background: #020c59;
+	background: #2d0ba8;
 	padding: 100px 0;
 }
 #token_funds .sub-title {
@@ -914,7 +914,7 @@ select {
 	text-align: center;
 }
 .logos {
-	background: #0b1e68;
+	background: #2d0ba8;
 	padding: 100px 0 0;
 }
 .logos .companis-logo-wapper .companis-logos {
@@ -937,11 +937,11 @@ select {
 	cursor: pointer;
 }
 #faq-area {
-	background: #0b1e68;
+	background: #2d0ba8;
 	padding: 150px 0 0;
 }
 #faq-area .faq-wrapper {
-	background: #111c75;
+	background: #2d0ba8;
 	padding: 80px 50px 50px;
 	box-shadow: 0 0 50px 0 rgba(0, 0, 0, 0.2);
 }
@@ -992,7 +992,7 @@ select {
 /*---------- team Style-------*/
 
 #team_membar {
-	background: #020c56;
+	background: #2d0ba8;
 	padding: 150px 0;
 }
 #team_membar .single-row {
@@ -1012,7 +1012,7 @@ select {
 	position: relative;
 }
 #team_membar .single-row .team-single-item figure .member-img:before {
-	background: #0b1e68;
+	background: #2d0ba8;
 	opacity: 0.45;
 	content: "";
 	left: 0;
@@ -1056,7 +1056,7 @@ select {
 	transition: all 0.3s ease 0s;
 }
 #team_membar .single-row .team-single-item figure figcaption .social-links {
-	background: linear-gradient(to right, #f78ca0, #fe9a8b);
+	background: linear-gradient(to right, #2d0ba8, #2d0ba8);
 	margin: 0px auto;
 	text-align: left;
 	padding-left: 40px;
@@ -1097,7 +1097,7 @@ select {
 }
 #subscribe-wrapper:before {
 	position: absolute;
-	background: #0b1e68;
+	background: #2d0ba8;
 	content: "";
 	height: 60%;
 	width: 100%;
@@ -1116,7 +1116,7 @@ select {
 	z-index: -1;
 }
 #subscribe-wrapper #subscribe {
-	background: linear-gradient(to right, #f78ca0, #fe9a8b);
+	background: linear-gradient(to right, #2d0ba8, #2d0ba8);
 	padding: 60px 0;
 }
 #subscribe-wrapper #subscribe .sub-title {
@@ -1136,7 +1136,7 @@ select {
 	height: 60px;
 	border: 0 none;
 	color: #4d6076;
-	background: #ffffff;
+	background: #2d0ba8;
 	border-radius: 50px;
 	padding: 0 190px 0 40px;
 	font-size: 16px;
@@ -1149,7 +1149,7 @@ select {
 	top: 6px;
 	border: 0 none;
 	border-radius: 50px;
-	background: #36dd90;
+	background: #2d0ba8;
 	color: #ffffff;
 	font-weight: 500;
 	text-transform: uppercase;
@@ -1172,7 +1172,7 @@ select {
 }
 #subscribe-wrapper #subscribe .subscribe-social .social-items li a i {
 	background: rgba(255, 255, 255, 0.4);
-	color: #0b1e68;
+	color: #2d0ba8;
 	height: 40px;
 	width: 40px;
 	text-align: center;
@@ -1183,7 +1183,7 @@ select {
 	transition: all 0.3s ease-in-out;
 }
 #subscribe-wrapper #subscribe .subscribe-social .social-items li a i:hover {
-	background: #ffffff;
+	background: #2d0ba8;
 	color: #0077b5;
 }
 /*---------- Footer Style-------*/
@@ -1191,7 +1191,7 @@ select {
 .footer {
 	padding-top: 150px;
 	position: relative;
-	background: #020c59;
+	background: #2d0ba8;
 }
 .footer .footer-btm-wrapper {
 	padding-bottom: 80px;
@@ -1239,7 +1239,7 @@ select {
 ========================*/
 
 .body_01 {
-	background: #562ad8;
+	background: #2d0ba8;
 }
 .body_01 p {
 	font-weight: 400;
@@ -1265,7 +1265,7 @@ select {
 }
 #header-01:before {
 	position: absolute;
-	background: rgba(36, 69, 120, 0);
+	background: rgba(101, 42, 238, 0);
 	content: "";
 	height: 100%;
 	width: 100%;
@@ -1294,7 +1294,7 @@ select {
 }
 #header-01 .navbar .navbar-nav .nav-item .nav-link.active {
 	font-weight: 700;
-	background-image: linear-gradient(to left, #08aeea 0%, #24e8a7 100%);
+	background-image: linear-gradient(to left, #2d0ba8 0%, #2d0ba8 100%);
 	color: transparent;
 	-webkit-background-clip: text;
 	background-clip: text;
@@ -2352,7 +2352,7 @@ select {
 
 .body_02 {
 	color: #7a839e;
-	background: #ffffff;
+	background: #2d0ba8;
 }
 .body_02 p {
 	line-height: 26px;
@@ -2378,11 +2378,11 @@ select {
 	position: absolute;
 	border-radius: 100%;
 	bottom: 10px;
-	background-color: #fff;
+	background-color: #2d0ba8;
 	z-index: 1;
 }
 #header-02 {
-	background: #ffffff;
+	background: #2d0ba8;
 	position: relative;
 	min-height: 820px;
 	z-index: 99;
